@@ -1,6 +1,4 @@
 package com.example.mi_calculadora
-
-import android.os.Build.VERSION_CODES.R
 import android.os.Bundle
 import android.view.View
 import android.widget.Button
